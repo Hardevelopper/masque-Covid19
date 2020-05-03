@@ -13,6 +13,6 @@
        Pour la petite histoire, Brandstätter avait mis au point ces masques de protection pour son personnel. Mais finalement, au vu de l’intérêt suscité par ce produit, le groupe a décidé de commercialiser ce masque auprès du grand public.
      </p>
      <h3>comprenez mieux avec cette vidéo !</h3>
-<iframe width="200" height="300" src="https://www.youtube.com/embed/cNt8NsGfBsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/cNt8NsGfBsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
