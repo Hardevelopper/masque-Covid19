@@ -12,6 +12,7 @@
        Chaque masque coûte 4,99 €, avec un euro reversé aux Restos du Cœur. Playmobil prévient que la demande étant « très élevée », les commandes seront traitées dans les meilleurs délais possibles. « Toutes nos équipes sont actuellement mobilisées pour augmenter les capacités de production », précise l’entreprise qui prévoit d’autres coloris.<br/>
        Pour la petite histoire, Brandstätter avait mis au point ces masques de protection pour son personnel. Mais finalement, au vu de l’intérêt suscité par ce produit, le groupe a décidé de commercialiser ce masque auprès du grand public.
      </p>
+     <h3>comprenez mieux avec cette vidéo !</h3>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cNt8NsGfBsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
